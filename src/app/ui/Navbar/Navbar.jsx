@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+  import React, { useState } from "react";
 
 import classNames from "classnames";
 import Link from "next/link.js";
@@ -9,8 +9,7 @@ import { AiOutlineClose } from "react-icons/ai";
 
 import { SidebarData } from "../SideBar";
 
-import logoWhite from '~/src/public/logo_white.svg'
-import logoBlue from '~/src/public/logo_blue.svg'
+import { WHITE_LOGO, BLUE_LOGO } from '~/src/app/lib/assets'
 import classes from './Navbar.module.css'
 
 const Navbar = ({theme}) => {
@@ -28,7 +27,8 @@ const Navbar = ({theme}) => {
           <Link href="/" className={classes.navbar__logo}>
             <Image
               width={40}
-              src={theme === "light" ? logoBlue : logoWhite}
+              height={40}
+              src={theme === "light" ? BLUE_LOGO : WHITE_LOGO}
               alt="logo"
             />
           </Link>
@@ -56,12 +56,12 @@ const Navbar = ({theme}) => {
             </Link>
           </li>
           {SidebarData.map((item, index) => {
-            if (item.status === "available") {
+            if (item.status) {
               return (
                 <li key={index} className={classes.navbar__text}>
                   <Link href={item.path}>
                     {item.icon}
-                    <span className={classes.span}>{item.title}</span>
+                    <span className={classes.span}>{item.label}</span>
                   </Link>
                 </li>
               );
