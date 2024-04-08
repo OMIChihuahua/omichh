@@ -6,48 +6,55 @@ import { HiOutlineDocumentText } from "react-icons/hi";
 import { VscNotebook } from "react-icons/vsc";
 import { MdPermContactCalendar } from "react-icons/md";
 import { BsFillPersonLinesFill } from "react-icons/bs";
+import { IoMdHome } from "react-icons/io";
 
 export const SidebarData = [
   {
-    title: "Registro",
+    label: "Inicio",
+    path: "/",
+    icon: <IoMdHome />,
+    status: true
+  },
+  {
+    label: "Registro",
     path: "/registro",
     icon: <FaRegIdBadge />,
-    status: "available"
+    status: true
   },
   {
-    title: "Alumnos Inscritos",
+    label: "Alumnos Inscritos",
     path: "/participantes",
     icon: <BsFillPersonLinesFill />,
-    status: "not_available"
+    status: false
   },
   {
-    title: "Convocatoria",
+    label: "Convocatoria",
     path: "/convocatoria",
     icon: <HiOutlineDocumentText />,
-    status: "available"
+    status: true
   },
   {
-    title: "Codigo de conducta",
+    label: "Codigo de conducta",
     path: "/",
     icon: <VscNotebook />,
-    status: "not_available"
+    status: false
   },
   {
-    title: "Reglamento",
+    label: "Reglamento",
     path: "/",
     icon: <RiPencilRulerLine />,
-    status: "not_available"
+    status: false
   },
   {
-    title: "OMICHH",
+    label: "OMICHH",
     path: "/omichh",
     icon: <FaInfoCircle />,
-    status: "available"
+    status: true
   },
   {
-    title: "Contacto",
+    label: "Contacto",
     path: "/",
     icon: <MdPermContactCalendar />,
-    status: "not_available"
+    status: false
   },
 ];

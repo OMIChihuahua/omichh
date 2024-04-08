@@ -1,57 +1,46 @@
 'use client'
-import React, { useState } from 'react'
+import React from 'react'
 
 import Link from 'next/link'
 import Image from 'next/image'
 
-
-import logoWhite from '~/src/public/logo_white.svg'
-import logoBlue from '~/src/public/logo_blue.svg'
+import { SidebarData } from '../SideBar'
 import Navbar from '../Navbar/Navbar'
 import classes from './Header.module.css'
 import { usePathname } from 'next/navigation'
+import { WHITE_LOGO, BLUE_LOGO } from '~/src/app/lib/assets'
 
-const whiteThemePaths = ['/convocatoria', '/inscritos']
+const blueThemePaths = ['/', '/omichh']
 
 const Header = () => {
   const pathname = usePathname()
-  const whiteTheme = whiteThemePaths.includes(pathname)
+  const blueTheme = blueThemePaths.includes(pathname)
   return (
-    <div className={whiteTheme ? classes.whiteTheme : classes.blueTheme}>
+    <div className={blueTheme ? classes.blueTheme : classes.whiteTheme}>
       <div className={classes.headerContainer}>
         <div className={classes.desktopHeader}>
           <Link href='/' className={classes.logo}>
-            <Image width={40} src={whiteTheme ? logoBlue : logoWhite} alt='logoWhite' />
+            <Image width={40} height={40} src={blueTheme ? WHITE_LOGO : BLUE_LOGO} alt='logo' />
           </Link>
           <div className={classes.headerLinks}>
-            <Link
-              className={whiteTheme ? classes.linkBlue : classes.link }
-              href='/registro'
-            >
-              Registro
-            </Link>
-            <Link
-              className={whiteTheme ? classes.linkBlue : classes.link }
-              href='/convocatoria'
-            >
-              Convocatoria
-            </Link>
-            <Link
-              className={whiteTheme ? classes.linkBlue : classes.link }
-              href='/inscritos'
-            >
-              Inscritos
-            </Link>
-            <Link
-              className={whiteTheme ? classes.linkBlue : classes.link }
-              href='/omichh'
-            >
-              OMICHH
-            </Link>
+            {SidebarData.map(tab => {
+              if (tab.status) {
+                return (
+                  <Link
+                    key={tab.label}
+                    className={blueTheme ? classes.link : classes.linkBlue}
+                    href={tab.path}
+                  >
+                    {tab.label}
+                  </Link>
+                )
+              }
+              return null
+            })}
           </div>
         </div>
         <div className={classes.movileHeader}>
-          <Navbar theme={whiteTheme ? 'light' : ''} />
+          <Navbar theme={blueTheme ? '' : 'light'} />
         </div>
       </div>
     </div>

@@ -2,8 +2,8 @@ import Header from '~/src/app/ui/Header/Header'
 import Image from 'next/image'
 import Button from './ui/Button/Button'
 
-import medals from '../public/medallas.png'
 import classes from './Home.module.css'
+import { MEDALS } from '~/src/app/lib/assets'
 
 const Home = () => {
   return (
@@ -22,7 +22,7 @@ const Home = () => {
           </p>
           <Button refUrl={"/convocatoria"} label={"Convocatoria"} />
         </div>
-        <Image width={500} className={classes.medals} src={medals} alt="Medals"/>
+        <Image width={537} height={400} className={classes.medals} src={MEDALS} alt="Medals"/>
       </div>
     </div>
   )
