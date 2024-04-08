@@ -1,0 +1,66 @@
+@media (max-width: 999px) {
+  .landing__container{
+    width: 80%;
+    flex-direction: column;
+    text-align: center;
+  }
+  .medals{
+    display: none;
+  }
+  .landing__content{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 1000px){
+  .landing__container{
+    width: 55%;
+  }
+  .landing__content{
+    width: 50%;
+    align-content: flex-start;
+    justify-content: center;
+  }
+}
+
+.homeContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--blue);
+  z-index: -1;
+}
+
+.home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing__container{
+  background-color: var(--blue);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.landing__content{
+  display: flex;
+  flex-direction: column;
+}
+.content__title{
+  font-family: 'Fira Code', monospace !important;
+  color: var(--white);
+  font-size: 32px;
+}
+.content__text{
+  margin: 30px 0px;
+  color: var(--white);
+}
+

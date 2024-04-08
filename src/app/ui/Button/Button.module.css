@@ -1,0 +1,14 @@
+.button{
+  width: 150px;
+  text-align: center;
+  background-color: var(--blue);
+  color: var(--white);
+  border:  1px solid var(--white);
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.button:hover {
+  filter: brightness(93%);
+}

@@ -1,0 +1,30 @@
+@media (max-width: 999px) {
+  .aboutContent{
+    flex-direction: column;
+  }
+  .image{
+    display: none;
+  }
+}
+
+.aboutContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--blue);
+  color: var(--white);
+  z-index: -1;
+}
+
+.aboutContent{
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

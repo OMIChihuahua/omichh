@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "jsx": "react",
+    "paths": {
+      "~/src/*": [
+        "src/*"
+      ],
+    },
+  }
+}
