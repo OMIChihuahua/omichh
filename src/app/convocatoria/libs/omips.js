@@ -1,4 +1,4 @@
-const convocatoriaOMIPS = `
+export const convocatoriaOMIPS = `
 # **Olimpiada Mexicana de Informática Chihuahua (OMIPS)**
 
 ## **CONVOCAN**
