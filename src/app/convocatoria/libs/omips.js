@@ -59,7 +59,7 @@ Cada sede estará supervisada por alguien aprobado por el comité estatal.
 
 * Inscripciones (abril).
 * Del sábado 20 de abril al 28 de abril de 2024. Se abrirá una práctica en línea para cada nivel, el realizar la práctica es opcional y tiene la intención de mostrar a los alumnos el uso de omegaup y los concursos.
-* El sábado 4 de mayo de 2023 a las 9:30 hrs a 11:30 hrs y de 12:00 a 14:30 hrs. con un receso de 30 min. Se efectuará el examen estatal de manera presencial en las diferentes sedes estatales.
+* El sábado 11 de mayo de 2023 a las 9:30 hrs a 11:30 hrs y de 12:00 a 14:30 hrs. con un receso de 30 min. Se efectuará el examen estatal de manera presencial en las diferentes sedes estatales.
 * Este examen definirá a los 25 alumnos que representarán  al estado en el examen en línea. Para poder ser elegido es obligatorio haber obtenido puntos en el examen.
 * Los concursos tendrá 3 problemas en la primera parte del examen y 3 en la segunda parte. Todos los problemas deberán ser resueltos utilizando el lenguaje de programación ​Karel​, utilizando el sistema de evaluación ​OmegaUp.
 
