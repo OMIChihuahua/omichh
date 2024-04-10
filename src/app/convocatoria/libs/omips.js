@@ -1,4 +1,4 @@
-export const convocatoriaOMIPS = `
+const convocatoriaOMIPS = `
 # **Olimpiada Mexicana de Informática Chihuahua (OMIPS)**
 
 ## **CONVOCAN**
@@ -87,3 +87,5 @@ Cada sede estará supervisada por alguien aprobado por el comité estatal.
 * Recursividad para contar, comparar cantidades o memorizar números.
 * Búsquedas
 `
+
+export default convocatoriaOMIPS
