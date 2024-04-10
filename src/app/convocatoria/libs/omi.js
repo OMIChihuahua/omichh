@@ -25,7 +25,7 @@ Tener nacionalidad mexicana o radicar en México y estar dispuesto a representar
 Estar inscrito en una institución de nivel básico o medio superior con una
 carga curricular completa en el sistema educativo mexicano.
 Estar cursando un grado tal que para el semestre de enero a junio del 2024 aún se encuentre en nivel básico o medio superior.
-Leer y acatar el reglamento oficial publicado en la siguiente [liga.](www.olimpiadadeinformatica.org.mx/OMI/OMI/InfoGeneral/Reglamento.aspx){:target="_blank"}
+Leer y acatar el reglamento oficial publicado en la siguiente [liga.](www.olimpiadadeinformatica.org.mx/OMI/OMI/InfoGeneral/Reglamento.aspx/?target=_blank)
 
 Los conocimientos y habilidades mínimas con las que deberán contar son las siguientes: Matemáticas básicas: Aritmética, Álgebra y Trigonometría. Gusto y placer por resolver problemas y retos.
 
