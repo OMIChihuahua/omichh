@@ -5,7 +5,7 @@ La Olimpiada Mexicana de Informática Chihuahua (OMICHH).
 
 ## **CONVOCA**
 
-A todos los alumnos que radiquen en el Estado de Chihuahua a participar en la 29° Olimpiada Mexicana de Informática en su fase Estatal, la cual permitirá seleccionar a los alumnos más destacados para su participación en la OMI Nacional 2023 a celebrarse la primera quincena del mes de Octubre de 2023.
+A todos los alumnos que radiquen en el Estado de Chihuahua a participar en la 29° Olimpiada Mexicana de Informática en su fase Estatal, la cual permitirá seleccionar a los alumnos más destacados para su participación en la OMI Nacional 2023 a celebrarse la primera quincena del mes de Octubre de 2024.
 
 La **Olimpiada Mexicana de Informática en Chihuahua (OMICHH)** es un concurso a nivel estatal para jóvenes y niños con facilidad para resolver problemas prácticos mediante la lógica y el uso de computadoras, que busca promover el desarrollo tecnológico en México y encontrar a los mejores programadores, quienes formarán la selección del estado para participar en las próximas Olimpiadas Nacionales de Informática (OMI) y posteriormente en Olimpiadas Internacionales de Informática (IOI).
 
