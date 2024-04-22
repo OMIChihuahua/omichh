@@ -57,7 +57,7 @@ Cada sede estará supervisada por alguien aprobado por el comité estatal.
 ### **Categoría Primarias y Secundarias**
 
 * Inscripciones (Febrero, Marzo y Abril).
-* Del sábado 22 de abril al 28 de abril de 2022. Se abrirá una práctica en línea para cada nivel, el realizar la práctica es opcional y tiene la intención de mostrar a los alumnos el uso de omegaup y los concursos.
+* Del sábado 22 de abril al 28 de abril de 2022. Se agregarán a los participantes a un curso en omegaup, es opcional y tiene la intención de mostrar a los alumnos el uso de omegaup y los concursos.
 * El sábado 6 de mayo de 2023 a las 10:00 hrs a 13:30 hrs. Se efectuará el primer examen estatal de manera virtual.
 * El sábado 13 de mayo de 2023 a las 10:00 hrs a 13:30 hrs. Se efectuará el primer examen estatal de manera presencial, la sede del examen se informará próximo a la fecha.
 * Ambos exámenes sumarán puntos para determinar a los alumnos que pasaran a la siguiente etapa.
