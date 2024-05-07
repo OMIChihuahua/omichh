@@ -55,6 +55,7 @@ Cada sede estará supervisada por alguien aprobado por el comité estatal.
 
 ## **Desarrollo de la OMICHH**
 
+
 ### **Categoría básica**
 
 * Inscripciones (abril).

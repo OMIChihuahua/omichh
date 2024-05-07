@@ -5,7 +5,7 @@ La Olimpiada Mexicana de Informática Chihuahua (OMICHH).
 
 ## **CONVOCA**
 
-A todos los alumnos que radiquen en el Estado de Chihuahua a participar en la 29° Olimpiada Mexicana de Informática en su fase Estatal, la cual permitirá seleccionar a los alumnos más destacados para su participación en la OMI Nacional 2023 a celebrarse la primera quincena del mes de Octubre de 2024.
+A todos los alumnos que radiquen en el Estado de Chihuahua a participar en la 28° Olimpiada Mexicana de Informática en su fase Estatal, la cual permitirá seleccionar a los alumnos más destacados para su participación en la OMI Nacional 2023 - 2024 a celebrarse la primera quincena del mes de Octubre de 2024.
 
 La **Olimpiada Mexicana de Informática en Chihuahua (OMICHH)** es un concurso a nivel estatal para jóvenes y niños con facilidad para resolver problemas prácticos mediante la lógica y el uso de computadoras, que busca promover el desarrollo tecnológico en México y encontrar a los mejores programadores, quienes formarán la selección del estado para participar en las próximas Olimpiadas Nacionales de Informática (OMI) y posteriormente en Olimpiadas Internacionales de Informática (IOI).
 
@@ -44,8 +44,9 @@ El proceso Estatal de la OMICHH se desarrolla en las etapas y fechas a continuac
 Categoría Abierta
 * Inscripciones.
 * Desarrollo del curso estatal en omegaup, al cual serán agregados una vez se registren.
-* El sábado 31 de agosto de 2024 a las 9:00 hrs a 14:30 hrs. 5 problemas de manera virtual.
-* El sábado 7 de septiembre de 2024 a las 10:00 hrs a 14:30 hrs. Se efectuará el examen pre nacional de manera presencial, la sede del examen se informará próximo a la fecha.
+* Examen Pre nacional se llevará a cabo de manera presencial en la ciudad de Chihuahua, Chih. Durante el mes de septiembre de 2023.
+* El sábado 2 de septiembre de 2023 a las 10:00 hrs a 14:30 hrs. Se efectuará la primera fase del examen estatal de manera virtual, este examen no tiene un puntaje la intención es que todos los alumnos sepan la dinámica de un examen estatal.
+* El sábado 9 de septiembre de 2023 a las 10:00 hrs a 14:30 hrs. Se efectuará la segunda fase del examen estatal de manera presencial, Sede CONALEP #1 Av. Mirador 7748, Mirador, Recursos Hidráulicos, 31100 Chihuahua, Chih.
 * El examen Pre-Nacional será el que determinará a los 4 alumnos que integraran a la delegación nacional que representará a Chihuahua en la OMI Nacional.
 
 
