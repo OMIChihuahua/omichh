@@ -41,7 +41,8 @@ Para más información visita nuestra página oficial www.omichh.org o cualquier
 
 El proceso Estatal de la OMICHH se desarrolla en las etapas y fechas a continuación descritas:
 
-Categoría Abierta
+### **Categoría Abierta**
+
 * Inscripciones.
 * Desarrollo del curso estatal en omegaup, al cual serán agregados una vez se registren.
 * Examen Pre nacional se llevará a cabo de manera presencial en la ciudad de Chihuahua, Chih. Durante el mes de septiembre de 2023.
