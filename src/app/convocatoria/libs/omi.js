@@ -1,9 +1,9 @@
 const convocatoriaOMI = `
 # **Olimpiada Mexicana de Informática Chihuahua**
 
-El Gobierno de Chihuahua a través de la Secretaría de Educación y Deporte y la Olimpiada Mexicana de Informática Chihuahua (OMICHH).
+La Olimpiada Mexicana de Informática Chihuahua (OMICHH).
 
-## **CONVOCAN**
+## **CONVOCA**
 
 A todos los alumnos que radiquen en el Estado de Chihuahua a participar en la 28° Olimpiada Mexicana de Informática en su fase Estatal, la cual permitirá seleccionar a los alumnos más destacados para su participación en la OMI Nacional 2023 - 2024 a celebrarse la primera quincena del mes de Octubre de 2024.
 
@@ -20,19 +20,18 @@ Promover la amistad, convivencia e intercambio tecnológico entre jóvenes de to
 
 ### **I. Requisitos y Condiciones.**
 
-Haber nacido después del 1° de julio de 2004.
+Haber nacido después del 1° de julio de 2005.
 Tener nacionalidad mexicana o radicar en México y estar dispuesto a representar internacionalmente a México.
 Estar inscrito en una institución de nivel básico o medio superior con una
 carga curricular completa en el sistema educativo mexicano.
-Firmar de conformidad el reglamento y código de conducta por parte del alumno y padre o tutor, el cual será enviado una vez que se realice el correspondiente registro.
 Estar cursando un grado tal que para el semestre de enero a junio del 2024 aún se encuentre en nivel básico o medio superior.
-
+Leer y acatar el reglamento oficial publicado en la siguiente liga: www.olimpiadadeinformatica.org.mx/OMI/OMI/InfoGeneral/Reglamento.aspx
 
 Los conocimientos y habilidades mínimas con las que deberán contar son las siguientes: Matemáticas básicas: Aritmética, Álgebra y Trigonometría. Gusto y placer por resolver problemas y retos.
 
 ### **II.  Inscripciones**
-Las inscripciones iniciarán el 18 de febrero de 2023 y finalizarán el 31 de agosto de 2023.
-Los concursantes deben registrarse en la siguiente liga. www.omichh.org
+Las inscripciones iniciarán el 10 de abril de 2024 y finalizarán el 1 de agosto de 2024.
+Los concursantes deben registrarse a travez de sus maestros asesores o en su defecto el padre o tutor deberá enviar un correo a contacto@omichh.org.
 Asesores si desean recibir más información, favor de enviar un correo electrónico a contacto@omichh.org.
 
 Para más información visita nuestra página oficial www.omichh.org o cualquier duda envía un correo electrónico a contacto@omichh.org.
