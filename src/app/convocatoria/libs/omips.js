@@ -58,8 +58,7 @@ Cada sede estará supervisada por alguien aprobado por el comité estatal.
 
 * Inscripciones (Febrero, Marzo y Abril).
 * Del sábado 22 de abril al 28 de abril de 2022. Se agregarán a los participantes a un curso en omegaup, es opcional y tiene la intención de mostrar a los alumnos el uso de omegaup y los concursos.
-* El sábado 6 de mayo de 2023 a las 10:00 hrs a 13:30 hrs. Se efectuará el primer examen estatal de manera virtual.
-* El sábado 13 de mayo de 2023 a las 10:00 hrs a 13:30 hrs. Se efectuará el primer examen estatal de manera presencial, la sede del examen se informará próximo a la fecha.
+* El sábado 13 de mayo de 2023 a las 10:00 hrs a 13:30 hrs. Se efectuará el primer examen estatal de manera presencial, Sede CONALEP #1 Av. Mirador 7748, Mirador, Recursos Hidráulicos, 31100 Chihuahua, Chih, y la Escuela normal experimental Miguel Hidalgo, Anillo Perimetral Luis Donaldo Colosio Km 5 +767, Miguel Hidalgo, 33879 Hidalgo del Parral, Chih.
 * Ambos exámenes sumarán puntos para determinar a los alumnos que pasaran a la siguiente etapa.
 Este examen determinará a los 25 alumnos que pasarán a la etapa nacional, es necesario que los alumnos que sean parte de este grupo hayan conseguido un puntaje diferente a cero durante el proceso estatal.
 * Los concursos tendrá 3 problemas para primaria y 3 para secundaria, con una duración de 3:30 horas para ambos niveles. Todos los problemas deberán ser resueltos utilizando el lenguaje de programación ​Karel​, utilizando el sistema de evaluación ​OmegaUp.
