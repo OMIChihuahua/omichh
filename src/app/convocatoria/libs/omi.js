@@ -46,7 +46,7 @@ El proceso Estatal de la OMICHH se desarrolla en las etapas y fechas a continuac
 * Inscripciones.
 * Desarrollo del curso estatal en omegaup, al cual serán agregados una vez se registren.
 * Examen Pre nacional se llevará a cabo de manera presencial en la ciudad de Chihuahua, Chih. Durante el mes de septiembre de 2023.
-* El sábado 31 de septiembre de 2024 a las 10:00 hrs a 14:30 hrs. Se efectuará la primera fase del examen estatal de manera virtual, este examen no tiene un puntaje la intención es que todos los alumnos sepan la dinámica de un examen estatal.
+* El sábado 31 de agosto de 2024 a las 10:00 hrs a 14:30 hrs. Se efectuará la primera fase del examen estatal de manera virtual, este examen no tiene un puntaje la intención es que todos los alumnos sepan la dinámica de un examen estatal.
 * El sábado 7 de septiembre de 2024 a las 10:00 hrs a 14:30 hrs. Se efectuará la segunda fase del examen estatal de manera presencial, Sede CONALEP #1 Av. Mirador 7748, Mirador, Recursos Hidráulicos, 31100 Chihuahua, Chih.
 * El examen Pre-Nacional será el que determinará a los 4 alumnos que integraran a la delegación nacional que representará a Chihuahua en la OMI Nacional.
 
